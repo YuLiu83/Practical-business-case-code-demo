@@ -18,5 +18,5 @@ Welcome to my continuously expanding business-friendly sample project collection
 
 To be continued...
 
-Better formatted code is shared through Google Colab files stored in the Google Drive:
+Better formatted code and my personal profiles can be accessed through the following link:
 https://drive.google.com/drive/folders/1EnC7YFl2djf74-t3P7PZllMMbQ-n5TUL?usp=sharing

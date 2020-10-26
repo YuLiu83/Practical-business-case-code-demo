@@ -17,3 +17,6 @@ Welcome to my continuously expanding business-friendly sample project collection
     *Implement basket analysis for a streaming program to understand program bundle viewership during a subscriber’s tenure.
 
 To be continued...
+
+Better formatted code can be seen on my shared colab folders stored in google drive:
+https://drive.google.com/drive/folders/1EnC7YFl2djf74-t3P7PZllMMbQ-n5TUL?usp=sharing
